@@ -474,7 +474,7 @@ body {
 	aspect-ratio: 5/3;
 	border: 5px solid var(--grey-900);
 	background: var(--yellow-200);
-	filter: drop-shadow(3px 4px 5px rgb(80, 79, 79));
+	filter: drop-shadow(4px 4px 4px rgb(85, 85, 85));
 }
 
 .carousel-toLeft {
