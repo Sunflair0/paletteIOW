@@ -372,7 +372,7 @@ margin:  0;
 .clip-frame {
 position: absolute;
 display: flex;
-margin-top: 35vh;
+margin-top: 45vh;
 clip-path: polygon(0% 0%, 0% 100%, 5% 95%, 5% 5%, 95% 5%, 95% 95%, 5% 95%, 0 100%, 100% 100%, 100% 0%);
 background-image: linear-gradient(45deg, fuchsia, navy, fuchsia);
 height: 300px;
@@ -407,5 +407,5 @@ width: 45%;
 .lottie {
 display: flex;
 position: absolute;
-margin-top: 25vh;
+margin-top: 30vh;
 }
