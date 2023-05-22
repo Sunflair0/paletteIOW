@@ -472,7 +472,7 @@ body {
 	margin-top: 50vh;
 	height: 40vh;
 	aspect-ratio: 5/3;
-	border: 5px solid var(--grey-900);
+	border: 2px solid var(--grey-900);
 	background: var(--yellow-200);
 	filter: drop-shadow(4px 4px 4px rgb(85, 85, 85));
 }
