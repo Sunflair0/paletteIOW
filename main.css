@@ -458,12 +458,6 @@ body {
 	width: 45%;
 }
 
-.lottie {
-	display: flex;
-	position: absolute;
-	margin-top: 30vh;
-}
-
 .card {
 	display: flex;
 	position: absolute;
